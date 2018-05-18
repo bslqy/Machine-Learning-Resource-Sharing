@@ -1,6 +1,6 @@
 # Machine-Learning-Resource-Sharing
 
-`author`: tsungruihon, tankeryang
+`author`: tsungruihon, tankeryang, gary, cryaa and summer
 
 `date`: 2018-05-18
 
