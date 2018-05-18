@@ -23,7 +23,8 @@
 
 * 先抓取 __源repo__ 最新版本到本地: `git fetch upstream`
 * review后无问题则合并至本地master: `git merge upstream/master`
-* 添加内容，`push`到自己的远程库: `git push origin master`
+* 添加内容，`git add <你新加或者修改过的⽂文件>`， 然后`git commit -m '<添加⼀一个版本修改的说明>'`
+* 然后`push`到自己的远程库: `git push origin master`
 * 发起`pull request`
 * 在 __源repo__ review后无大问题则`comfirm merge`
 
